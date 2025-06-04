@@ -1,0 +1,12 @@
+<Box
+      display="flex"
+      flexDirection="column"
+      justifyContent="space-between"
+      alignItems="flex-start"
+      p={3}
+      bg="white"
+      w="100%"
+      h="100%"
+      borderRadius="lg"
+      borderWidth="1px"
+    >
